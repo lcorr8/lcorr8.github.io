@@ -16,7 +16,6 @@
 
 #navigation-right ul {
     list-style: none;
-
 }
 
 #navigation-right ul li {
@@ -46,7 +45,6 @@
 }
 
 .title {
-    /*background-color: deeppink;*/
     z-index: 99;
     width: 96vw;
     height: 50vh;
@@ -57,26 +55,14 @@
 .title p {
     color: #fff;
     font-size: 30vw;
-    /*display: flex;*/
-    /*align-items: center;*/
-    /*justify-content: center;*/
-    /*text-align: center;*/
     line-height: 1;
-    /*padding: 0;*/
     margin: 15px;
-
     position: absolute;
-    /*top: 25vh;*/
-
     z-index: 99;
     float: left;
-    /*transform: translateY(200%);*/
-    /*transform: translatex(50%);*/
-
 }
 
 .social {
-    /*background: blue;*/
     z-index: 99;
     width: 80vw;
     height: 20vh;
