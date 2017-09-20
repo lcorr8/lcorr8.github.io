@@ -109,6 +109,13 @@
     }
 }
 
+.content-container {
+    z-index: 99;
+    width: 96vw;
+    height: 90vh;
+    position: fixed;
+    top: 5vh;
+}
 
 
 
